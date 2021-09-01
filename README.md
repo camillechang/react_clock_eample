@@ -1,4 +1,4 @@
-### This project is an React App for world clock. It's just my exercise.
+### This project an exercise of world clock. 
 
 The result will look like:
 ![Alt text](./src/clock.PNG?raw=true)
