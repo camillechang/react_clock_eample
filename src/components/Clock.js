@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import "./Clock.css";
 import { getCurrentDate } from "./util";
 
+//given city name, get current date
+// App.js use <Clock city={"New York"} />
 class Clock extends Component {
   constructor(props) {
     console.log("--constructor");
